@@ -1,0 +1,1 @@
+start srcds.exe -game nmrih -secure +map nmo_boardwalk
